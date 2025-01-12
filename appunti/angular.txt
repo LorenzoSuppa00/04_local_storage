@@ -1,0 +1,5 @@
+Creazione gestionale: 
+Tutti i dati vengono salvati all'interno del Local Storage
+Il Local Storage  è un piccolo database SQL Lite che permette di salvare delle stringhe come coppie chiave valore
+Il Local Storage è il passo precedente alle API
+
